@@ -7,7 +7,6 @@ function positiveSum(arr) {
     })
     return count
    }
-<<<<<<< HEAD
    //silly changes haha
    //meow
    // this is some code I was playing with 
@@ -26,6 +25,4 @@ console.log(evens.sort(function(a, b){return a-b}))
    }
    //nfljadabdfnsbfkjlhkdsbfajlhbfbjshf 
    //whats changed
-=======
    //change to original function code
->>>>>>> 744ddb9902fb92765c65a471e290ced9138c6adc

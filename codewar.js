@@ -8,4 +8,6 @@ function positiveSum(arr) {
     return count
    }
 
-   //meow
+   function frenchtimes(){
+       console.log("French!")
+   }
